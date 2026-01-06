@@ -17,5 +17,3 @@ No ML libraries (like sklearn) are used for the model logic.
 ## Results
 - Breast Cancer dataset: ~90% accuracy
 - make_moons dataset (noise=0.3): ~87% accuracy
-
-## Project Structure
